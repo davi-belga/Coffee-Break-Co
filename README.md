@@ -32,9 +32,10 @@ Passo 2: Combinação das Dimensões
 - Quantidade de Vendas por Turno
 - Preço médio por Turno
 - Preço médio por Tipo de café
-- Premissas do negócio
-    - **Varejo de Alta Frequência:** O negócio é caracterizado por um **alto volume de transações e baixo Ticket Médio**
-    - **Foco no Consumo Rápido e Local:** O desempenho é altamente sensível à **sazonalidade diária e semanal**
+
+## Premissas do negócio
+- **Varejo de Alta Frequência:** O negócio é caracterizado por um **alto volume de transações e baixo Ticket Médio**
+- **Foco no Consumo Rápido e Local:** O desempenho é altamente sensível à **sazonalidade diária e semanal**
     
     Visão do negócio: visão Geral
     
