@@ -1,4 +1,5 @@
 # Coffee-Break-Co
+<img width="1024" height="1024" alt="Gemini_Generated_Image_cgp4f8cgp4f8cgp4" src="https://github.com/user-attachments/assets/85a4e9c7-ce02-4713-af78-4b6a813dc10a" />
 
 # Problema de negócio
     
