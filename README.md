@@ -5,9 +5,7 @@
     
   A **Coffee Break Co.** é uma rede de cafeterias que opera em grandes centros urbanos, com foco em atendimento rápido e qualidade do café. A empresa compete em um mercado saturado, onde a retenção de clientes e a otimização da operação são vitais. O principal desafio da gestão é garantir que a **eficiência operacional** e as **decisões de *mix* de produtos** estejam alinhadas com a **lucratividade**.
     
-   O Problema de Negócio (Desafio de Gestão)
-    "Como podemos otimizar a alocação de pessoal e aumentar o Ticket Médio da Coffee Break Co., explorando a sazonalidade de vendas por Dia da Semana e identificando o *mix* de produtos mais eficaz para *upsell*?"
-    
+  
 
 ### Dado da empresa
 
